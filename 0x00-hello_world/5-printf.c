@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - containar
+ * main - this is the containar
  * Return- output will be zero
  */
 int main(void)
