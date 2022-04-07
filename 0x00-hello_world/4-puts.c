@@ -1,11 +1,10 @@
 #include <stdio.h>
 /**
-*main - entry point for the program
-*
-*Return :0 after printing the function
-*/
+ * main - this will be the container
+ * Return: this will return 0
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
+	return(0);
 }
