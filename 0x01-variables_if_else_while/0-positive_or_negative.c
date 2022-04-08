@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <time.h>
-#include <stdblib.h>
+#include <stdlib.h>
 /** more - headers goes there
  * return: this will give 0
  * betty style doc for function main goes there
