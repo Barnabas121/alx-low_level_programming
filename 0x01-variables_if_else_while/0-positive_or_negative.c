@@ -1,10 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
-#include <stdio.>
+#include <stdio.h>
 /**
  * main - Entry containar
  * 
- *Return: always 0
+ * Return: always 0
  */
 int main(void)
 {
