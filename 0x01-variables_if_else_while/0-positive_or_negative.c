@@ -4,15 +4,14 @@
 
 
 /**
- * main - Entry point
- *
- *this is the first printf 
- *
+ * main - Entry point 
+ * description: this is new program
  * Return: Always 0 (Success)
  */
 int main(void)
 {
 	int n;	
+
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	if (n > 0)
