@@ -8,7 +8,7 @@ int main(void)
 {
 	int firstNum = 0, secNum;
 
-	while (firsNum <= 99)
+	while (firstNum <= 99)
 	{
 		secNum = 0;
 		while (secNum <= 99)
@@ -19,7 +19,7 @@ int main(void)
 				putchar((firstNum % 10) + 48);
 				putchar(' ');
 				putchar((secNum / 10) + 48);
-				putchar((SecNum % 10) + 48);
+				putchar((secNum % 10) + 48);
 				if (firstNum != 98 || secNum != 99)
 				{
 					putchar(',');
