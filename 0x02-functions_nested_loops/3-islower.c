@@ -1,4 +1,4 @@
-#inlude"main.h"
+#include"main.h"
 /**
  * _islower - is a function to check small letter in ASCII which is from 97 - 122
  *
