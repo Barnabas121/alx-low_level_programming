@@ -1,7 +1,8 @@
 #include"main.h"
 /**
- * _islower - is a function to check small letter in ASCII which is from 97 - 122
- *
+ * _islower - is a function small letter in ASCII which is from 97 - 122
+ * @c: takes input
+ * Return: 1 is if true
  */
 int _islower(int c)
 {
