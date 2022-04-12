@@ -1,8 +1,8 @@
 #include"main.h"
 /**
- * _isalpha - this function only print letter wether it is upper or lower case
- * @c: it takes input
- * Return:1 is true
+ * isalpha - check for character
+ * @c - tales input
+ * Return: always 1
  */
 int _isalpha(int c)
 {
