@@ -1,8 +1,9 @@
 #include"main.h"
 /**
- * isalpha - check for character
- * @c - tales input
- * Return: always 1
+ * _isalpha - checkif characterr is a letter both upper case or lower
+ *
+ * @c: takes input
+ * Return: this will return 1
  */
 int _isalpha(int c)
 {
