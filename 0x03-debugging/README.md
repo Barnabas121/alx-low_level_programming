@@ -1,2 +1,1 @@
-#!/bin/bash
-this is debugging tutorial
+Debugging project
