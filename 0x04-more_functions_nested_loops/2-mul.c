@@ -1,7 +1,9 @@
 #include "main.h"
 /**
  * mul - this will multiply
- * @c: this is c
+ * @a: this is first num
+ * @b: this is sec
+ * mul: this is multiplication
  * Return: this is 0
  */
 
