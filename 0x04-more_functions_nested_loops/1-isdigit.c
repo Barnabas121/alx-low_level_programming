@@ -1,4 +1,3 @@
-#include"main.h"
 /**
  * _isdigit - entry point
  * @c: is for int
