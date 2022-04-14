@@ -1,10 +1,9 @@
 #include "main.h"
 /**
- * more_numbers -this is from 0 -9
- *
+ * print_numbers -this is from 0 -9
  * Return: this is 0
  */
-void more_numbers(void)
+void print_numbers(void)
 {
 	int c;
 
