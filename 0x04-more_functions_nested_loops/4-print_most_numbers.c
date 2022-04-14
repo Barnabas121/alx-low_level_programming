@@ -1,17 +1,17 @@
-#include "main.h"
+#include"main.h"
 /**
  * print_most_numbers -this is from 0 -9
  * Return: this is 0
  */
 void print_most_numbers(void)
 {
-	int c = 0;
+	int num;
 
-	for (c = 0; c <= 9; ++c)
+	for (num = 0; num <= 9; ++num)
 	{
-		if (c == 2 || c == 4)
+		if (num == 2 && num == 4)
 			continue;
-		_putchar(c + 48);
+		_putchar(num + 48);
 	}
 	_putchar('\n');
 }
