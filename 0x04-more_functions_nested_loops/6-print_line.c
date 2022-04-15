@@ -1,21 +1,22 @@
-#include"main.h"
-
+#include "main.h"
 /**
-* print_lines - print a straight line with underscore
-* @n: is the number of line the char print
-* Return: 0
-*/
-
+ * print_line -print a straight line
+ * @n: the number of line to draw
+ * Return: void
+ */
 void print_line(int n)
 {
-	int len;
-
-	if (n <= 9)
-		_putchar('\n');
-	else
+	if (n <= 0)
 	{
-		for (len = 1; len <= n; ++len)
+		_putchar('\n');
+	} else
+	{
+		int i;
+
+		for (i = 1; i <= n; i++)
+		{
 			_putchar('_');
+		}
 		_putchar('\n');
 	}
 }
