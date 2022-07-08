@@ -1,6 +1,6 @@
 /*
  * File: 1-dlistint_len.c
- * Auth: Yitagesu K Areda
+ * Auth: Barnabas Abuye
  */
 
 #include "lists.h"
