@@ -1,6 +1,6 @@
 /*
  * File: 6-sum_dlistint.c
- * Auth: Yitagesu K Areda
+ * Auth: Barnabas Abuye
  */
 
 #include "lists.h"
