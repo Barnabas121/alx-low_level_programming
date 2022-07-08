@@ -3,7 +3,7 @@
 
 /*
  * File: lists.h
- * Auth: Yitagesu K Areda
+ * Auth: Barnabas Abuye
  */
 
 #include <stdio.h>

@@ -1,6 +1,6 @@
 /*
  * File: 103-keygen.c
- * Auth: Yitagesu K Areda
+ * Auth: Barnabas Abuye
  */
 
 #include <stdio.h>
