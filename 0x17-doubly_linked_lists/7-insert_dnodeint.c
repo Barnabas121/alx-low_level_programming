@@ -1,6 +1,6 @@
 /*
  * File: 7-insert_dnodeint.c
- * Auth: Yitagesu K Areda
+ * Auth: Barnabas Abuye
  */
 
 #include "lists.h"
